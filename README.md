@@ -1,3 +1,3 @@
 # learn-shell
 
-# Learn shell script tasks.
+### Learn shell scripting topics.
